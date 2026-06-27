@@ -7,7 +7,7 @@ This repository contains five end-to-end machine learning projects completed as 
 | Project | Notebook | Report | Dataset |
 |---------|----------|--------|---------|
 | 🌸 Iris Flower Classification | [📓 Notebook](Data_Science/Task_1_Iris_Classification.ipynb) | [📄 Report](Data_Science/Task_1_Iris_Classification_Report.docx) | Built into Scikit-learn |
-| 📈 Unemployment Analysis | [📓 Notebook](Data_Science/Task_2_Unemployment_Analysis.ipynb) | [📄 Report](Data_Science/Task_2_Unemployment_Analysis_Report.docx) | [📊 Dataset](Data_Science/unemployment_india.csv) |
+| 📈 Unemployment Analysis | [📓 Notebook](Data_Science/Task_2_Unemployment_Analysis.ipynb) | [📄 Report](Data_Science/Task_2_Unemployment_Analysis_Report.docx) | [📊 Dataset](Data_Science/Unemployment_in_india.csv) |
 | 🚗 Car Price Prediction | [📓 Notebook](Data_Science/Task_3_Car_Price_Prediction.ipynb) | [📄 Report](Data_Science/Task_3_Car_Price_Prediction_Report.docx) | [📊 Dataset](Data_Science/car_data.csv) |
 | 📧 Email Spam Detection | [📓 Notebook](Data_Science/Task_4_Spam_Detection.ipynb) | [📄 Report](Data_Science/Task_4_Spam_Detection_Report.docx) | [📊 Dataset](Data_Science/spam.csv) |
 | 📊 Sales Prediction | [📓 Notebook](Data_Science/Task_5_Sales_Prediction.ipynb) | [📄 Report](Data_Science/Task_5_Sales_Prediction_Report.docx) | [📊 Dataset](Data_Science/advertising.csv) |
